@@ -9,13 +9,13 @@ I am a CE postgraduate student at Shri Sant Gajanan Maharaj College of Engineeri
 <!--
 **pallavithakare28/pallavithakare28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
-- 🔭 I’m currently working on HTML, CSS, JavaScript
-- 🌱 I’m currently learning reactJS
-- 👯 I’m looking to collaborate on Web development
-- 🤔 I’m looking for help with intern/job opportunities
-- 💬 Ask me about: Software development and design
-- 🚀 Skills: HTML, CSS, JS, Java
-- ⚡ Fun fact: Love to listen 🎶
+- 🔭 I’m currently working on HTML, CSS, JavaScript.
+- 🌱 I’m currently learning reactJS.
+- 👯 I’m looking to collaborate on Web development.
+- 🤔 I’m looking for help with intern/job opportunities.
+- 💬 Ask me about: Software development and design.
+- 🚀 Skills: HTML, CSS, JS, Java.
+- ⚡ Fun fact: Love to listen 🎶.
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
