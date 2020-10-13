@@ -27,7 +27,6 @@ I am a CE postgraduate student at Shri Sant Gajanan Maharaj College of Engineeri
 <a href="https://dev.to/pallavithakare28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pallavithakare28" height="30" width="40" /></a>
 <a href="https://twitter.com/pallavithakare2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pallavithakare2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pallavi-thakare-583a26104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pallavi-thakare-583a26104" height="30" width="40" /></a>
-<a href="https://fb.com/pallavi.thakare.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pallavi.thakare.92" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
