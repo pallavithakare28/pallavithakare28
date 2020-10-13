@@ -12,7 +12,7 @@ I am a CE postgraduate student at Shri Sant Gajanan Maharaj College of Engineeri
 - 🔭 I’m currently working on HTML, CSS, JavaScript
 - 🌱 I’m currently learning reactJS
 - 👯 I’m looking to collaborate on Web development
-- 🤔 I’m looking for help with intern/job opportunity
+- 🤔 I’m looking for help with intern/job opportunities
 - 💬 Ask me about: Software development and design
 - 🚀 Skills: HTML, CSS, JS, Java
 - ⚡ Fun fact: Love to listen 🎶
